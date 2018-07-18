@@ -1,5 +1,14 @@
-# Pull Reminders Public Product Backlog
+# Pull Reminders Backlog
 
-This repo contains the [public product backlog](https://github.com/pullreminders/roadmap/projects/1) (see the "Projects" tab) for [Pull Reminders](https://pullreminders.com).
+![Pull Reminders image](assets/app-image.jpg)
 
-Have an idea for a new feature in Pull Reminders? That's great! [Create a new issue](https://github.com/pullreminders/backlog/issues/new) in this repo or email us at [support@pullreminders.com](mailto:support@pullreminders.com).
+## Overview
+
+Backed up on pull requests? Tired of bugging people for code reviews? Pull Reminders helps dev teams ship code faster with automated pull request reminders and metrics. 
+
+This repo contains a [public backlog](https://github.com/pullreminders/roadmap/projects/1) under the "Projects" tab where all current and future development is tracked.
+
+
+## Contribute
+
+Have a suggestion for an improvement or new feature in Pull Reminders? Please [open a new issue](https://github.com/pullreminders/backlog/issues/new).
